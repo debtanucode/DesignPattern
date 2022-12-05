@@ -1,4 +1,4 @@
-package com.pro.design.pattern.creational;
+package com.pro.design.pattern.creational.singleton;
 
 import java.time.LocalDate;
 
